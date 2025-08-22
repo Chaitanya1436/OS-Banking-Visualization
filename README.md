@@ -1,13 +1,18 @@
 ### Deadlock and Concurrency Website live at - https://chaitanya1436.github.io/OS-Banking-Visualization/
-
 The **Deadlock and Concurrency Website** is an interactive educational platform designed to help users understand and visualize critical concepts of operating systems such as **Lock Variables**, **Deadlocks**, **Banker’s Algorithm**, **Counting Semaphore**, and **Binary Semaphore**. The platform is specifically designed to simulate real-world banking scenarios, providing users with hands-on experience of how banks manage resources to ensure concurrency while avoiding deadlocks.
 
-### Objective
+## 🌄 Project Preview
+Here are some sample outputs and visualizations from the notebook:
 
+<p align="center">
+  <img src="OS Banking Gif.moov" alt="Gif from one of the algorithm" width="45%" />
+
+</p>
+
+### Objective
 The main objective of this project is to offer an immersive learning experience where users can visualize and interact with the functioning of various OS concepts. By simulating resource management in a banking environment, the platform demonstrates how banks prevent and resolve deadlocks using different algorithms and techniques.
 
 ### Key Features
-
 #### 🏠 Home Menu  
 - A clean, user-friendly interface with a navigation menu.  
 - Options include **Concurrency**, **Lock Variables**, **Deadlocks**, **Banker’s Algorithm**, **Counting Semaphore**, and **Binary Semaphore**.  
@@ -38,13 +43,11 @@ The main objective of this project is to offer an immersive learning experience 
 - Users observe how semaphores control access to critical sections.  
 
 ### Technologies Used
-
 - **Frontend:** HTML, CSS, JavaScript for building an interactive and responsive user interface.  
 - **Backend:** Python (if applicable) for processing data and logic management.  
 - **Visualization Tools:** JavaScript-based libraries like **D3.js** or **Three.js** for visual simulations.  
 
 ### How it Works
-
 1. **Interactive Selection:** Users select a desired concept from the homepage.  
 2. **Simulation:** The system simulates a banking environment where currency denominations represent resources.  
 3. **Visualization:** Users observe how processes interact with resources using **Lock Variables**, **Banker's Algorithm**, or **Semaphores**.  
@@ -52,7 +55,6 @@ The main objective of this project is to offer an immersive learning experience 
 5. **Deadlock Detection:** If a deadlock occurs, the system provides detailed feedback and possible resolutions.  
 
 ### Use Case Example
-
 1. A user selects **Banker’s Algorithm** from the menu.  
 2. They simulate a scenario by allocating resources like **₹100** and **₹500** to various processes.  
 3. The system tracks resource requests and allocations.  
