@@ -1,4 +1,4 @@
-### Deadlock and Concurrency Website
+### Deadlock and Concurrency Website live at - https://chaitanya1436.github.io/OS-Banking-Visualization/
 
 The **Deadlock and Concurrency Website** is an interactive educational platform designed to help users understand and visualize critical concepts of operating systems such as **Lock Variables**, **Deadlocks**, **Banker’s Algorithm**, **Counting Semaphore**, and **Binary Semaphore**. The platform is specifically designed to simulate real-world banking scenarios, providing users with hands-on experience of how banks manage resources to ensure concurrency while avoiding deadlocks.
 
